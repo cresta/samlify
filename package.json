@@ -39,7 +39,7 @@
     "xml": "^1.0.1",
     "xml-crypto": "^1.5.3",
     "xml-encryption": "^1.1.1",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.6.0",
     "xpath": "^0.0.27"
   },
   "devDependencies": {
